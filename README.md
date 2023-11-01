@@ -1,10 +1,26 @@
-# Vite + React example Bank website
+# Bank landing page
 
-## Install
+![screenshot](screenshot.png)
 
-1. `git clone https://github.com/samiralibabic/bank-app.git`
-2. `npm install`
+* Vite
+* React
+
+## Clone repository
+
+```shell
+git clone https://github.com/samiralibabic/bank-app.git
+```
+
+## Install dependencies
+
+```shell
+npm install
+```
 
 ## Run
 
-1. `npm run dev`
+```shell
+npm run dev
+```
+
+Open `http://localhost:5173/bank-app/`
